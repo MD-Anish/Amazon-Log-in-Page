@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&family=Hind+Siliguri:wght@300;400;500;600;700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+.mybox{
+    width: 320px;
+    height: 360px;
+
+    border: 2px solid gray;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.sigin{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 18px;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    /* font-style: normal; */
+    /* font-variation-settings:"wdth" 100,"YTLC" 500; */
+}
+
+.ph-email{
+    padding-left: 18px;
+    font-size: 15px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+button{
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 115px;
+    padding-right: 110px;
+    margin-top: 20px;
+}
+
+.down{
+    padding-left: 18px;
+    font-size: medium;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.buss{
+    text-decoration: none;
+}
+
+.logo{
+    margin-left: 690px;
+}
+
+footer{
+    text-align: center;
+}
+
+.above-footer{
+    text-align: center;
+    text-spacing-trim: 1cm;
+    text-decoration: none;
+}
+
+.first{
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.second{
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.thired{
+    text-decoration: none;
+}
+.free-buss{
+    text-decoration: none;
+}
+
+.input-box{
+    height: 0.8cm;
+    width: 7cm;
+}
